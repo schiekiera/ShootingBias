@@ -1,5 +1,5 @@
 # ShootingBias
-MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the shooter task. The shooter task is a famous socialpsychological behavioral test for measuring implicit racial bias ([Correll et al., 2002](https://www.sciencedirect.com/science/article/abs/pii/S0022103103000209); [Essien et al., 2017](https://www.sciencedirect.com/science/article/pii/S0022103116303018)). 
+MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the *shooter task*. The *shooter task* is a famous socialpsychological behavioral test for measuring implicit racial bias ([Correll et al., 2002](https://www.sciencedirect.com/science/article/abs/pii/S0022103103000209); [Essien et al., 2017](https://www.sciencedirect.com/science/article/pii/S0022103116303018)). 
 
 # Table of Contents
 
@@ -12,7 +12,10 @@ MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the shooter 
 
 
 ## Background: What is the Shooter Bias?
-The shooter bias is a phenomenon observed in social psychology research that refers to the tendency for individuals to exhibit a bias in their decision-making and response times when faced with potentially threatening situations. Specifically, the shooter bias investigates people's implicit racial or ethnic stereotypes, since many people underreport racial or ethinc biases in survey studies.
+The shooter bias is a phenomenon observed in social psychology research that refers to the tendency for individuals to exhibit a bias in their decision-making and response times when faced with potentially threatening situations (Correll et al., 2002). Specifically, the shooter bias investigates people's implicit racial or ethnic stereotypes, since many people underreport racial or ethinc biases in survey studies.
+
+![alt text](https://www.frontiersin.org/files/Articles/483918/fpsyg-10-02140-HTML/image_m/fpsyg-10-02140-g001.jpg)
+*Figure 1 from [Harman et al. (2019)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02140/full): Example stimuli of a typical first-person shooter task*
 
 In the shooter bias task, participants are typically presented with images or videos of individuals holding objects, some of which are weapons (e.g., guns) and others are harmless objects. The participants are instructed to quickly decide whether to shoot or not shoot the person depicted in the image based on their perception of threat.
 
