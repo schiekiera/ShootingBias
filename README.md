@@ -1,5 +1,5 @@
 # ShootingBias
-MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the shooter task. The shooter task is a famous socialpsychological behavioral test for measuring implicit racial bias (Correll et al., 2002).
+MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the shooter task. The shooter task is a famous socialpsychological behavioral test for measuring implicit racial bias ([Correll et al., 2002](https://www.sciencedirect.com/science/article/abs/pii/S0022103103000209); [Essien et al., 2017](https://www.sciencedirect.com/science/article/pii/S0022103116303018)). 
 
 # Table of Contents
 
