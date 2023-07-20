@@ -1,0 +1,14 @@
+Im folgenden Videospiel ist es Ihre Aufgabe auf jede Person zu schießen die eine Waffe in der Hand hält ("die Bösen"),
+indem sie die linke Antworttaste drücken (links = schießen). 
+Wenn eine Person einen anderen Gegenstand in der Hand hält, gehört sie zu den "Guten" und sie müssen die 
+rechte Antworttaste drücken (rechts = NICHT schießen).
+
+Sie haben jeweils weniger als eine Sekunde Zeit um zu entscheiden.
+
+Basierend auf Ihrer Leistung erhalten Sie pro Durchgang Punkte.
+
+Die erste Runde des Spiels dient der Übung.
+
+Falls Sie noch Fragen haben, wenden Sich bitte jetzt an den Versuchsleiter/ die Versuchsleiterin.
+
+Wenn Sie bereit sind mit dem Übungsdurchgang zu beginnen, dann drücken sie nun die LEERTASTE.
