@@ -11,7 +11,7 @@ MATLAB's [Psychtoolbox](http://psychtoolbox.org/) Implementation of the *shooter
   - [References](#references)
 
 
-## Background: What is the Shooter Bias?
+## Background: What is the Shooter Bias?  
 The shooter bias is a phenomenon observed in social psychology research that refers to the tendency for individuals to exhibit a bias in their decision-making and response times when faced with potentially threatening situations (Correll et al., 2002). Specifically, the shooter bias investigates people's implicit racial or ethnic stereotypes, since many people underreport racial or ethinc biases in survey studies.
 
 ![alt text](https://www.frontiersin.org/files/Articles/483918/fpsyg-10-02140-HTML/image_m/fpsyg-10-02140-g001.jpg)
