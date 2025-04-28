@@ -42,5 +42,6 @@ The original study proposed the following hypotheses:
 3. Participants show more liberal response biases (i.e., shooting thresholds) for Arab-Muslim targets compared to White targets.
 
 ## References
-Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: using ethnicity to disambiguate potentially threatening individuals. Journal of personality and social psychology, 83(6), 1314.
-Essien, I., Stelter, M., Kalbe, F., Koehler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. Journal of Experimental Social Psychology, 70, 41-47.
+1. Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: using ethnicity to disambiguate potentially threatening individuals. Journal of personality and social psychology, 83(6), 1314.
+
+2. Essien, I., Stelter, M., Kalbe, F., Koehler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. Journal of Experimental Social Psychology, 70, 41-47.
